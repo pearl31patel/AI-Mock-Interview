@@ -1,4 +1,4 @@
-# AI Mock Interview Coach
+# AI Mock Interview Agent
 
 A real-time AI mock interview demo built with LiveKit AI Agents.  
 This project implements two interview stages: self-introduction and past-experience discussion, using multi-agent handoff and time-based fallback logic.
