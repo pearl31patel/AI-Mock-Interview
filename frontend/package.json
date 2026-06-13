@@ -1,0 +1,33 @@
+{
+    "name": "ai-mock-interview",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev --port 3000",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "@livekit/components-react": "latest",
+        "@livekit/components-styles": "latest",
+        "@tailwindcss/postcss": "^4.3.0",
+        "livekit-client": "latest",
+        "livekit-server-sdk": "latest",
+        "next": "latest",
+        "react": "latest",
+        "react-dom": "latest",
+        "uuid": "latest"
+    },
+    "devDependencies": {
+        "@netlify/plugin-nextjs": "^5.15.11",
+        "@types/node": "latest",
+        "@types/react": "latest",
+        "@types/react-dom": "latest",
+        "@types/uuid": "latest",
+        "autoprefixer": "latest",
+        "postcss": "latest",
+        "tailwindcss": "latest",
+        "typescript": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+# Environment files
+.env
+.env.local
+agent/.env
+frontend/.env
+frontend/.env.local
+
+# Python
+agent/venv/
+__pycache__/
+*.pyc
+
+# Node / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Mac
+.DS_Store
