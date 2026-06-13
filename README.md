@@ -3,6 +3,10 @@
 A real-time AI mock interview demo built with LiveKit AI Agents.  
 This project implements two interview stages: self-introduction and past-experience discussion, using multi-agent handoff and time-based fallback logic.
 
+![image alt](https://github.com/pearl31patel/AI-Mock-Interview/blob/9830f7d9ee60151d8fa55433b581e7548642ec05/img1.png)
+
+![image alt](https://github.com/pearl31patel/AI-Mock-Interview/blob/9830f7d9ee60151d8fa55433b581e7548642ec05/img2.png)
+
 ## Project Goal
 
 This demo was built for the AI Mock Interview challenge.
